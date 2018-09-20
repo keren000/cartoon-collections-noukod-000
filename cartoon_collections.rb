@@ -17,7 +17,7 @@ def long_planeteer_calls(lpb)# code an argument here
  lpg.any? { |p| p.length > 4 }
 end
 
-def find_the_cheese(snacks, soup)# code an argument here
+def find_the_cheese(snacks)# code an argument here
   # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
   find_the_cheese(cheese_types)
