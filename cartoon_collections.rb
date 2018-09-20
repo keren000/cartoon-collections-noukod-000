@@ -12,7 +12,7 @@ def summon_captain_planet(planeteer_calls)# code an argument here
     planeteer_calls.map! {|x| x.capitalize }
 end
 
-def long_planeteer_calls# code an argument here
+def long_planeteer_calls(short_words)# code an argument here
   # Your code here
 end
 
