@@ -20,4 +20,5 @@ end
 def find_the_cheese(snacks, soup)# code an argument here
   # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
+  find_the_cheese(cheese_types)
 end
