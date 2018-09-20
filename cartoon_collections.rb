@@ -3,7 +3,6 @@ def roll_call_dwarves(arr)# code an argument here
   arr.each_with_index do |arr1, arr2|
     arr2 += 1
     puts "#{arr2}. #{arr1}"
-
   end
 end
 
